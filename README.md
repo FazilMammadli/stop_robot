@@ -1,13 +1,13 @@
 # Stop Robot with C++ ROS2 Node
 
-This repository contains a C++ ROS2 node that stops a robot when executed. The task is to stop the robot using the "right" ROS2 way without using a `Twist` message or killing the node directly.
+This repository contains a C++ ROS2 node that stops a robot when executed. The task is to stop the robot without using a `Twist` message or killing the node directly.
 
 ## Objective
 
 - Create a C++ ROS2 node that, when run, will stop the robot.
 - Python will not work.
 - You cannot stop the robot using a `Twist` message or killing the node.
-- Learn the "right" ROS2 way to stop the robot.
+
 
 ## Video Demonstration
 
