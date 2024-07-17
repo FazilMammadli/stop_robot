@@ -13,7 +13,7 @@ This repository contains a C++ ROS2 node that stops a robot when executed. The t
 
 Below is a screen recording video of the robot navigating using RViz2 and then stopping once the C++ node is activated.
 
-![Video Demonstration](./path_to_your_video/video_demo.gif)
+![Video Demonstration](./ResultofStopping.gif)
 
 ## How the Code Works
 
