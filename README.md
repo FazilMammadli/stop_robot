@@ -44,3 +44,13 @@ The C++ ROS2 node to stop the robot works by canceling all active navigation goa
    ```bash
    git clone https://github.com/FazilMammadli/stop_robot.git
    cd stop_robot
+
+2. **Build the Package:**
+
+   ```bash
+   colcon build
+   source install/setup.bash
+3. **Run the Node:**
+   ```bash
+   ros2 run stop_robot stop_robot_node
+
